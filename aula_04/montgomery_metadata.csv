@@ -1,0 +1,139 @@
+study_id,age,gender,findings
+MCUCXR_0001_0.png,27,Female,normal
+MCUCXR_0002_0.png,40,Female,normal
+MCUCXR_0003_0.png,21,Female,normal
+MCUCXR_0004_0.png,11,Female,normal
+MCUCXR_0005_0.png,33,Male,normal
+MCUCXR_0006_0.png,70,Female,normal
+MCUCXR_0008_0.png,53,Female,normal
+MCUCXR_0011_0.png,29,Female,normal
+MCUCXR_0013_0.png,47,Female,normal
+MCUCXR_0015_0.png,48,Male,normal
+MCUCXR_0016_0.png,52,Female,normal
+MCUCXR_0017_0.png,8,Male,normal
+MCUCXR_0019_0.png,33,Male,normal
+MCUCXR_0020_0.png,24,Male,normal
+MCUCXR_0021_0.png,41,Female,normal
+MCUCXR_0022_0.png,54,Male,normal
+MCUCXR_0023_0.png,54,Male,normal
+MCUCXR_0024_0.png,37,Female,normal
+MCUCXR_0026_0.png,10,Female,normal
+MCUCXR_0027_0.png,38,Female,normal
+MCUCXR_0028_0.png,31,Female,normal
+MCUCXR_0029_0.png,19,Female,normal
+MCUCXR_0030_0.png,53,Male,normal
+MCUCXR_0031_0.png,53,Male,normal
+MCUCXR_0035_0.png,20,Female,normal
+MCUCXR_0038_0.png,31,Female,normal
+MCUCXR_0040_0.png,50,Female,normal
+MCUCXR_0041_0.png,11,Female,normal
+MCUCXR_0042_0.png,9,Male,normal
+MCUCXR_0043_0.png,48,Male,normal
+MCUCXR_0044_0.png,34,Female,normal
+MCUCXR_0045_0.png,52,Male,normal
+MCUCXR_0046_0.png,16,Female,normal
+MCUCXR_0047_0.png,35,Female,normal
+MCUCXR_0048_0.png,26,Female,normal
+MCUCXR_0049_0.png,28,Female,normal
+MCUCXR_0051_0.png,21,Male,normal
+MCUCXR_0052_0.png,30,Female,normal
+MCUCXR_0053_0.png,30,Female,normal
+MCUCXR_0054_0.png,25,Female,normal
+MCUCXR_0055_0.png,20,Male,normal
+MCUCXR_0056_0.png,32,Female,normal
+MCUCXR_0057_0.png,32,Female,normal
+MCUCXR_0058_0.png,44,Female,normal
+MCUCXR_0059_0.png,35,Female,normal
+MCUCXR_0060_0.png,4,Male,normal
+MCUCXR_0061_0.png,8,Female,normal
+MCUCXR_0062_0.png,25,Female,normal
+MCUCXR_0063_0.png,34,Female,normal
+MCUCXR_0064_0.png,47,Female,normal
+MCUCXR_0068_0.png,56,Female,normal
+MCUCXR_0069_0.png,50,Male,normal
+MCUCXR_0070_0.png,45,Female,normal
+MCUCXR_0071_0.png,33,Female,normal
+MCUCXR_0072_0.png,43,Female,normal
+MCUCXR_0074_0.png,56,Female,normal
+MCUCXR_0075_0.png,14,Male,normal
+MCUCXR_0077_0.png,8,Female,normal
+MCUCXR_0079_0.png,44,Male,normal
+MCUCXR_0080_0.png,5,O,normal
+MCUCXR_0081_0.png,18,Female,normal
+MCUCXR_0082_0.png,20,Female,normal
+MCUCXR_0083_0.png,52,Male,normal
+MCUCXR_0084_0.png,43,Female,normal
+MCUCXR_0085_0.png,56,Female,normal
+MCUCXR_0086_0.png,28,Female,normal
+MCUCXR_0087_0.png,44,Female,normal
+MCUCXR_0089_0.png,44,Male,normal
+MCUCXR_0090_0.png,44,Male,normal
+MCUCXR_0091_0.png,23,Male,normal
+MCUCXR_0092_0.png,44,Male,normal
+MCUCXR_0094_0.png,65,Female,normal
+MCUCXR_0095_0.png,53,Male,normal
+MCUCXR_0096_0.png,43,Female,normal
+MCUCXR_0097_0.png,16,Female,normal
+MCUCXR_0099_0.png,30,Female,normal
+MCUCXR_0100_0.png,39,Female,normal
+MCUCXR_0101_0.png,17,Female,normal
+MCUCXR_0102_0.png,45,Male,normal
+MCUCXR_0103_0.png,32,Male,normal
+MCUCXR_0104_1.png,59,Male,"inactive TB scars LUL, unchanged for 2Y, pt previously treated DOT (17Y ago) for pan-sensitive disease"
+MCUCXR_0108_1.png,40,Male,extensive cavitary TB smear and culture positive involving LUL lungula and some areas in rt lung as well; pt had previously normal CXR (1Y ago) but positive TST and contact with active case
+MCUCXR_0113_1.png,84,Female,bilateral miliary nodules diffusely with RML infiltrate and right pleural effusion; an old calcified granuloma is present behind heart in the LLL; all findings consistent with active TB
+MCUCXR_0117_1.png,85,Female,stable CXR since 6M; off Rx since 6M (same pt as MCUCXR_0113_1)
+MCUCXR_0126_1.png,46,Male,"large right pleural effusion, positive TST, TB pleural effusion likely"
+MCUCXR_0140_1.png,34,Male,small LUL calcified granuloma; pt on rx for culture positive psoas abscess with abdominal lymphadenopathy since 6M
+MCUCXR_0141_1.png,27,Male,"LUL infiltrate, ? small areas of cavitation, IMP: active TB"
+MCUCXR_0142_1.png,43,Female,cavitary infiltrate near left hilum consistent with TB in superior segment LLL
+MCUCXR_0144_1.png,67,Male,"smear positive, active TB LUL apex"
+MCUCXR_0150_1.png,32,Male,"extensive infiltrates bilaterally with large cavity in RUL and a moderate pleural effusion on the left. AFB smears and RNA probes pos for MTB. Active TB, cavitary."
+MCUCXR_0162_1.png,49,Male,"RUL apical fibrotic disease with some calcifications; extensive irregular infiltrates in left lung with a large area of cavitation/ findings consistent with old inactive disease in RL and new active TB in LL. On the lordotic view, in the rt apex a large thin walled cavity is visible, making active disease in the area likely as well."
+MCUCXR_0166_1.png,49,Male,NO REPORT (same pt as MCUCXR_0162_1)
+MCUCXR_0170_1.png,49,Male,"CXR similar to prior views 1M and 2M ago with some slight improvement; on HRZ(E)x2 months, AFB smears neg now, will switch to HR only (same pt as MCUCXR_0166_1, MCUCXR_0162_1)"
+MCUCXR_0173_1.png,54,Male,"improved infiltrates in both lungs; a cavity is now visible in lingula compared with 1M ago. culture positive, pan-sensitive, on HRZ(E) since 1M"
+MCUCXR_0182_1.png,30,Male,"pleural TB, on treatment"
+MCUCXR_0188_1.png,61,Male,"cavitary disease RUL with possible small loculated pneumothorax adjacent; has multiuple coarse nodules in RLL as well as lesser amounts in LLL; pt has h/o prior treatment 1Y (6Y ago); no comparison films available; relapsed disease highly likely. pt grew NTM from several specimens, not MTB."
+MCUCXR_0194_1.png,73,Male,"h/o TB rx in xxx 44Y ago with IN PAS SM; has rt apical dense fibrosis, calcification rt lower lung and pleural angle blunting; all compared with inactive disease and h/o treatment."
+MCUCXR_0195_1.png,44,Female,has inactive appearing scars in LUL; h/o treatment in hospital 17Y ago for 6M in xxx. No comparison films. Recommend followup CXR in 6M. Findings consistent with inactive treated disease.
+MCUCXR_0196_1.png,26,Female,"dense scarring in LUL with volume loss, lesser scarring in RUL; appears similar to old filmes from 3Y ago and 4Y ago. Treated 4Y ago for 6M for INH resistant TB"
+MCUCXR_0203_1.png,68,Male,"bilateral changes of cavitary TB in upper lobes, more extensive on the right; the RML appears to be involved as well."
+MCUCXR_0213_1.png,89,Female,inactive scars RML. has completed treatment
+MCUCXR_0218_1.png,46,Female,inactive and partly calcified scars and granulomas in RUL. pt completed 4HRZE 4HP DOT for neg culture smear (positive disease)
+MCUCXR_0223_1.png,67,Male,improving infiltrate in LUL
+MCUCXR_0228_1.png,32,Male,"positive improvement in cavities, infiltrates, and left effusion"
+MCUCXR_0243_1.png,54,Male,"improving infiltrate, active TB"
+MCUCXR_0251_1.png,77,Female,RUL fibrocavitary disease with volume loss and tracheal deviation to right; COPD scoliosis;
+MCUCXR_0253_1.png,31,Male,worsening diffuse infiltrate bilaterally with fine nodular appearance; recent PCP treatment; recurrent PCP likely although miliary TB is also observed.
+MCUCXR_0254_1.png,33,Male,stable inactive scars in RUL; post treatment for abscillary TB
+MCUCXR_0255_1.png,33,Male,stable inactive scars in RUL; post treatment for abscillary TB
+MCUCXR_0258_1.png,88,Female,active PTB with compicating CHF condition
+MCUCXR_0264_1.png,15,Male,active TB; cavitary infiltrarte LUL; non-consolidated;
+MCUCXR_0266_1.png,47,Male,peripheral homogeneous infiltrate LUL; active pneumonia likely
+MCUCXR_0275_1.png,34,Male,inactive scars unchanged for 6M
+MCUCXR_0282_1.png,51,Male,inactive TB scars
+MCUCXR_0289_1.png,52,Male,RUL cavitary infiltrate; positive smear
+MCUCXR_0294_1.png,63,Female,inactive TB scars LUL
+MCUCXR_0301_1.png,47,Male,"persistent rt pleural peel with some interval improvement with focal atelectasis in rt lung; anterior wedging of T5, T6 with loss of intervertebral disc space. Findings consistent with h/o spinal TB and pleural TB. Currently on Rx."
+MCUCXR_0309_1.png,89,Female,"improvements after Rx. Has pleural, pulmonary, and probably percardial TB, pan-sensitive"
+MCUCXR_0311_1.png,89,Female,on Rx for culture proven TB. has been clearing of infiltrates in te rt lung. thre is some re-accomodation of pleural fluid along lateral left chest wall.
+MCUCXR_0313_1.png,15,Male,improvements. LUL cavity has closed.
+MCUCXR_0316_1.png,16,Male,improved LUL infiltrate and cavity. Active TB on therapy.
+MCUCXR_0331_1.png,47,Male,inactive appearing RUL TB scars
+MCUCXR_0334_1.png,24,Male,RUL infiltrate consistent with TB
+MCUCXR_0338_1.png,35,Male,LUL inactive scars and some volume loss. h/o treatment 5 years ago.
+MCUCXR_0348_1.png,69,Female,scoliosis to the left with some scarring in LLL and over the left apex; calcified granuloma in the rt lung. could be related to old TB.
+MCUCXR_0350_1.png,36,Male,suspicious active disease
+MCUCXR_0352_1.png,25,Female,"12x9mm nodule LUL, consistent with large granuloma or some other type of a solitary pulmonary nodule"
+MCUCXR_0354_1.png,46,Male,bilateral calcified granulomas scars consistent with inactive TB.
+MCUCXR_0362_1.png,61,Male,rt pleural effusion with some nodular infiltrate in rt lower lung; there are findings also of previous cardiac surgery; suspicious for active TB.
+MCUCXR_0367_1.png,31,Female,cavitary fibronodular infiltrate RUL. typical appearance of active TB.
+MCUCXR_0369_1.png,31,Female,cavitary nodular infiltrate in RUL; active TB
+MCUCXR_0372_1.png,49,Female,rt pleural effusion some infoltrate likely in outer RUL
+MCUCXR_0375_1.png,49,Female,improving rt pleural effusion and the RUL infiltrate is less apparent
+MCUCXR_0383_1.png,14,Female,calcified granuloma LUL behind 4th rib anterior
+MCUCXR_0387_1.png,42,Male,inactive scars RUL
+MCUCXR_0390_1.png,52,Male,Rt apical scarring. LUL scars and some infiltrates as well; findings consistent with TB; ?active
+MCUCXR_0393_1.png,30,Female,left pleural effusion; best seen on lateral view; with some scar and soft infiltrates in the LUL on the PA and lordotic views; active TB on pleura and lung likely
+MCUCXR_0399_1.png,63,Female,large infiltrate RUL with cavitation plus infiltrate in RML. consistent with active cavitary TB
